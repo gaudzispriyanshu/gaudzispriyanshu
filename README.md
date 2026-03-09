@@ -20,7 +20,7 @@ When I’m away from the keyboard, you’ll find me on the cricket pitch or expl
 
 - 🚀 Currently working on a stealth-mode Industrial ERP.
 - 🛠️ Professional focus on scalable architecture and user-centric design.
-- ⚡ Fun fact: I apply the same discipline to a cover drive as I do to a clean pull request.
+- ⚡ Fun fact: I’ve debugged more logic while riding my bike than while sitting at my desk.
 
 ---
 
@@ -42,12 +42,4 @@ When I’m away from the keyboard, you’ll find me on the cricket pitch or expl
   <a href="https://codeforces.com/profile/gaudzz"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/gaudz"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white" /></a>
   <a href="https://auth.geeksforgeeks.org/user/gaudz"><img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=flat-square&logo=GeeksforGeeks&logoColor=white" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaudz&show_icons=true&theme=vivid&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaudz&layout=compact&langs_count=7&theme=vivid"/>
 </p>
