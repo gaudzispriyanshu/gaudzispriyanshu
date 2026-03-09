@@ -1,23 +1,53 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Thakur</h1>
-<h3 align="center">A frontend Developer and Blockchain Enthusiast.</h3>
-
-- 🌱 I’m currently learning **Web-3 and Smart Contract Development.**
-
-- 📫 How to reach me **priyanshut964@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_gaudz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_gaudz_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaudz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaudz" height="30" width="40" /></a>
-<a href="https://fb.com/_gaudz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_gaudz_" height="30" width="40" /></a>
-<a href="https://instagram.com/_gaudz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gaudz_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gaudz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gaudz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gaudz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gaudz" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gaudzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gaudz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gaudz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaudz" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/gaudz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="gaudz" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gaudz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gaudz" height="30" width="40" /></a>
+<h1 align="center">Priyanshu Thakur</h1>
+<p align="center">
+  <strong>Software Developer & Full-Stack Architect</strong><br>
+  Building scalable industrial solutions from the ground up.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/gaudz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/_gaudz_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:priyanshut964@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I am a **Software Developer** and **Full-Stack Architect** currently architecting an end-to-end ERP product from the ground up. I thrive at the intersection of complex backend logic and clean UI design, turning industrial challenges into streamlined digital solutions. 
+
+When I’m away from the keyboard, you’ll find me on the cricket pitch or exploring a different corner of the world.
+
+- 🚀 Currently working on a stealth-mode Industrial ERP.
+- 🛠️ Professional focus on scalable architecture and user-centric design.
+- ⚡ Fun fact: I apply the same discipline to a cover drive as I do to a clean pull request.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### **Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+#### **Competitive Programming & Metrics**
+<p align="left">
+  <a href="https://www.leetcode.com/gaudz"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/gaudzz"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/gaudz"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/gaudz"><img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=flat-square&logo=GeeksforGeeks&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaudz&show_icons=true&theme=vivid&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaudz&layout=compact&langs_count=7&theme=vivid"/>
+</p>
